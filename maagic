@@ -1,6 +1,90 @@
  [
     {
       "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/14.jpeg",
+      "name": "Photography 14",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/13.jpeg",
+      "name": "Photography 13",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/12.jpeg",
+      "name": "Photography 12",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/11.jpeg",
+      "name": "Photography 11",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/10.jpeg",
+      "name": "Photography 10",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/9.jpeg",
+      "name": "Photography 9",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/8.jpeg",
+      "name": "Photography 8",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/7.jpeg",
+      "name": "Photography 7",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/6.jpeg",
+      "name": "Photography 6",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/5.jpeg",
+      "name": "Photography 5",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/4.jpeg",
+      "name": "Photography 4",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/3.jpeg",
+      "name": "Photography 3",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/2.jpeg",
+      "name": "Photography 2",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/1.jpeg",
+      "name": "Photography 1",
+      "collections": "Photography"
+    },
+    {
+      "author": "EagleSpys",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/maagic.json/main/3d/29.jpeg",
       "name": "3D 29",
       "collections": "3D"
