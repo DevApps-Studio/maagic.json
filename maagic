@@ -1,5 +1,599 @@
  [
     {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/10.jpeg",
+      "name": "handmade10",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/9.jpg",
+      "name": "handmade9",
+      "collections": "handmade"
+    },   
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/8.png",
+      "name": "handmade8",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/7.png",
+      "name": "handmade7",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/6.png",
+      "name": "handmade6",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/5.png",
+      "name": "handmade5",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/4.png",
+      "name": "handmade4",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/3.png",
+      "name": "handmade3",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/2.png",
+      "name": "handmade2",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Handmade/1.jpeg",
+      "name": "handmade1",
+      "collections": "handmade"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/39.jpeg",
+      "name": "Photography39",
+      "collections": "Photography"
+    },  
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/38.jpeg",
+      "name": "Photography38",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/37.jpeg",
+      "name": "Photography37",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/36.jpeg",
+      "name": "Photography36",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/35.jpeg",
+      "name": "Photography35",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/34.jpeg",
+      "name": "Photography34",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/33.jpeg",
+      "name": "Photography33",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/32.jpeg",
+      "name": "Photography32",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/31.jpeg",
+      "name": "Photography31",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/30.jpeg",
+      "name": "Photography30",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/29.jpeg",
+      "name": "Photography29",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/28.jpeg",
+      "name": "Photography28",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/27.jpeg",
+      "name": "Photography27",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/26.jpeg",
+      "name": "Photography26",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/25.jpeg",
+      "name": "Photography25",
+      "collections": "Photography"
+    },   
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/24.jpeg",
+      "name": "Photography24",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/23.jpeg",
+      "name": "Photography23",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/22.jpeg",
+      "name": "Photography22",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/21.jpeg",
+      "name": "Photography21",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/20.jpg",
+      "name": "Photography20",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/19.jpg",
+      "name": "Photography19",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/18.jpg",
+      "name": "Photography18",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/17.jpeg",
+      "name": "Photography17",
+      "collections": "Photography"
+    },  
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/16.jpeg",
+      "name": "Photography16",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Photography/15.jpg",
+      "name": "Photography15",
+      "collections": "Photography"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/59.jpeg",
+      "name": "Minimal 59",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/58.png",
+      "name": "Minimal 58",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/57.jpeg",
+      "name": "Minimal 57",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/56.png",
+      "name": "Minimal 56",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/55.jpeg",
+      "name": "Minimal 55",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/54.jpeg",
+      "name": "Minimal 54",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/53.jpeg",
+      "name": "Minimal 53",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/52.jpeg",
+      "name": "Minimal 52",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/51.png",
+      "name": "Minimal 51",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/50.png",
+      "name": "Minimal 50",
+      "collections": "Minimal"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/60.jpeg",
+      "name": "Floral 60",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/59.jpeg",
+      "name": "Floral 59",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/58.jpeg",
+      "name": "Floral 58",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/57.jpeg",
+      "name": "Floral 57",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/56.jpeg",
+      "name": "Floral 56",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/55.jpeg",
+      "name": "Floral 55",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/54.jpeg",
+      "name": "Floral 54",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/53.jpeg",
+      "name": "Floral 53",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/52.jpeg",
+      "name": "Floral 52",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/51.jpeg",
+      "name": "Floral 51",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/50.jpeg",
+      "name": "Floral 50",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/49.jpeg",
+      "name": "Floral 49",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/48.jpeg",
+      "name": "Floral 48",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/47.jpeg",
+      "name": "Floral 47",
+      "collections": "Floral"
+    },   
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/46.jpeg",
+      "name": "Floral 46",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/45.jpeg",
+      "name": "Floral 45",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/44.jpeg",
+      "name": "Floral 44",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/43.jpeg",
+      "name": "Floral 43",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/42.jpeg",
+      "name": "Floral 42",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/41.jpeg",
+      "name": "Floral 41",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/40.jpeg",
+      "name": "Floral 40",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/39.jpeg",
+      "name": "Floral 39",
+      "collections": "Floral"
+    },  
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/38.jpeg",
+      "name": "Floral 38",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/37.jpeg",
+      "name": "Floral 37",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/36.jpeg",
+      "name": "Floral 36",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/35.jpeg",
+      "name": "Floral 35",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/34.jpeg",
+      "name": "Floral 34",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/33.jpeg",
+      "name": "Floral 33",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/32.jpg",
+      "name": "Floral 32",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/31.jpg",
+      "name": "Floral 31",
+      "collections": "Floral"
+    },   
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/30.jpg",
+      "name": "Floral 30",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/29.jpg",
+      "name": "Floral 29",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/28.jpg",
+      "name": "Floral 28",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/27.jpg",
+      "name": "Floral 27",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/26.jpg",
+      "name": "Floral 26",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/25.jpg",
+      "name": "Floral 25",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/24.jpeg",
+      "name": "Floral 24",
+      "collections": "Floral"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/23.jpeg",
+      "name": "Floral 23",
+      "collections": "Floral"
+    },  
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/16.jpeg",
+      "name": "Architecture 16",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/15.jpeg",
+      "name": "Architecture 15",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/14.jpeg",
+      "name": "Architecture 14",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/13.jpeg",
+      "name": "Architecture 13",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/12.jpeg",
+      "name": "Architecture 12",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/11.jpeg",
+      "name": "Architecture 11",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/10.jpeg",
+      "name": "Architecture 10",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/9.jpeg",
+      "name": "Architecture 9",
+      "collections": "Architecture"
+    },   
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/8.jpeg",
+      "name": "Architecture 8",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/7.jpeg",
+      "name": "Architecture 7",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/6.jpeg",
+      "name": "Architecture 6",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/5.jpeg",
+      "name": "Architecture 5",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/4.jpeg",
+      "name": "Architecture 4",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/3.jpeg",
+      "name": "Architecture 3",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/2.jpeg",
+      "name": "Architecture 2",
+      "collections": "Architecture"
+    },
+    {
+      "author": "Illusion",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Architecture/1.jpeg",
+      "name": "Architecture 1",
+      "collections": "Architecture"
+    },  
+    {
       "author": "EagleSpys",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Birds/70.jpeg",
       "name": "Birds 70",
