@@ -1,5 +1,437 @@
  [
     {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/23.jpeg",
+      "name": "leaves 23",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/22.jpeg",
+      "name": "leaves 22",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/21.jpeg",
+      "name": "leaves 21",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/20.jpeg",
+      "name": "leaves 20",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/19.jpeg",
+      "name": "leaves 19",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/18.jpeg",
+      "name": "leaves 18",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/17.jpeg",
+      "name": "leaves 17",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/16.jpeg",
+      "name": "leaves 16",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/15.jpeg",
+      "name": "leaves 15",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/14.jpeg",
+      "name": "leaves 14",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/13.jpeg",
+      "name": "leaves 13",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/12.jpeg",
+      "name": "leaves 12",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/11.jpeg",
+      "name": "leaves 11",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/10.jpeg",
+      "name": "leaves 10",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/9.jpeg",
+      "name": "leaves 9",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/8.jpeg",
+      "name": "leaves 8",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/7.jpeg",
+      "name": "leaves 7",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/6.jpeg",
+      "name": "leaves 6",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/5.jpeg",
+      "name": "leaves 5",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/4.jpeg",
+      "name": "leaves 4",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/3.jpeg",
+      "name": "leaves 3",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/2.jpeg",
+      "name": "leaves 2",
+      "collections": "leaves"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/1.jpeg",
+      "name": "leaves 1",
+      "collections": "leaves"
+    },   
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/horror/20.png",
+      "name": "horror 21",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/20.jpeg",
+      "name": "horror 20",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/19.jpeg",
+      "name": "horror 19",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/18.jpeg",
+      "name": "horror 18",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/17.jpg",
+      "name": "horror 17",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/16.jpeg",
+      "name": "horror 16",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/15.jpeg",
+      "name": "horror 15",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/14.jpeg",
+      "name": "horror 14",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/13.jpeg",
+      "name": "horror 13",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/12.jpeg",
+      "name": "horror 12",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/11.jpeg",
+      "name": "horror 11",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/10.jpg",
+      "name": "horror 10",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/9.jpeg",
+      "name": "horror 9",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/8.jpeg",
+      "name": "horror 8",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/7.jpeg",
+      "name": "horror 7",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/6.jpeg",
+      "name": "horror 6",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/5.jpg",
+      "name": "horror 5",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/4.jpeg",
+      "name": "horror 4",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/3.jpeg",
+      "name": "horror 3",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/2.jpeg",
+      "name": "horror 2",
+      "collections": "horror"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/horror/1.jpg",
+      "name": "horror 1",
+      "collections": "horror"
+    },   
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/49.jpg",
+      "name": "Illustration 49",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/48.jpeg",
+      "name": "Illustration 48",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/47.jpeg",
+      "name": "Illustration 47",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/46.jpeg",
+      "name": "Illustration 46",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/45.jpeg",
+      "name": "Illustration 45",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/44.jpeg",
+      "name": "Illustration 44",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/43.jpeg",
+      "name": "Illustration 43",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/42.jpeg",
+      "name": "Illustration 42",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/41.jpeg",
+      "name": "Illustration 41",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/40.jpeg",
+      "name": "Illustration 40",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/39.jpeg",
+      "name": "Illustration 39",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/38.jpeg",
+      "name": "Illustration 38",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/37.jpeg",
+      "name": "Illustration 37",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/36.jpeg",
+      "name": "Illustration 36",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/35.jpeg",
+      "name": "Illustration 35",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/34.jpeg",
+      "name": "Illustration 34",
+      "collections": "Illustration"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/33.jpeg",
+      "name": "Illustration 33",
+      "collections": "Illustration"
+    },   
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/27.jpeg",
+      "name": "Fruits 27",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/26.jpeg",
+      "name": "Fruits 26",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/25.jpeg",
+      "name": "Fruits 25",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/24.jpeg",
+      "name": "Fruits 24",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/23.jpeg",
+      "name": "Fruits 23",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/22.jpeg",
+      "name": "Fruits 22",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/21.jpeg",
+      "name": "Fruits 21",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/20.jpeg",
+      "name": "Fruits 20",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/19.jpeg",
+      "name": "Fruits 19",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/18.jpeg",
+      "name": "Fruits 18",
+      "collections": "Fruits"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Fruits/17.jpeg",
+      "name": "Fruits 17",
+      "collections": "Fruits"
+    },   
+    {
       "author": "EagleSpys",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Hacker/16.jpeg",
       "name": "Hacker 16",
