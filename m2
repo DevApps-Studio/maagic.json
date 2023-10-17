@@ -8285,5 +8285,6 @@
       "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/1.jpg",
       "name": "Animals 1",
       "collections": "Animals"
-    }   
-]
+    }
+
+] 
