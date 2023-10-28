@@ -1,5 +1,323 @@
  [
     {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/15.png",
+      "name": "paintting 15",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/14.jpeg",
+      "name": "paintting 14",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/13.jpeg",
+      "name": "paintting 13",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/12.jpeg",
+      "name": "paintting 12",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/11.jpeg",
+      "name": "paintting 11",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/10.jpeg",
+      "name": "paintting 10",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/9.jpeg",
+      "name": "paintting 9",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/8.jpeg",
+      "name": "paintting 8",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/7.jpeg",
+      "name": "paintting 7",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/6.jpeg",
+      "name": "paintting 6",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/5.jpeg",
+      "name": "paintting 5",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/4.jpeg",
+      "name": "paintting 4",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/3.jpeg",
+      "name": "paintting 3",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/2.jpeg",
+      "name": "paintting 2",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Painting/1.jpeg",
+      "name": "paintting 1",
+      "collections": "paintting"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/97.jpeg",
+      "name": "Minimal 97",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/96.jpeg",
+      "name": "Minimal 96",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/95.jpeg",
+      "name": "Minimal 95",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/94.jpeg",
+      "name": "Minimal 94",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/93.jpeg",
+      "name": "Minimal 93",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/92.jpeg",
+      "name": "Minimal 92",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/91.jpeg",
+      "name": "Minimal 91",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/90.jpeg",
+      "name": "Minimal 90",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/89.jpg",
+      "name": "Minimal 89",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/88.jpeg",
+      "name": "Minimal 88",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/87.jpeg",
+      "name": "Minimal 87",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/86.jpeg",
+      "name": "Minimal 86",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/85.jpeg",
+      "name": "Minimal 85",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/84.jpeg",
+      "name": "Minimal 84",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/83.jpeg",
+      "name": "Minimal 83",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/82.jpeg",
+      "name": "Minimal 82",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/81.jpeg",
+      "name": "Minimal 81",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/80.jpeg",
+      "name": "Minimal 80",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/79.jpeg",
+      "name": "Minimal 79",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/78.jpeg",
+      "name": "Minimal 78",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/77.jpeg",
+      "name": "Minimal 77",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/76.jpeg",
+      "name": "Minimal 76",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/75.jpeg",
+      "name": "Minimal 75",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/74.jpg",
+      "name": "Minimal 74",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/73.jpeg",
+      "name": "Minimal 73",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/72.jpeg",
+      "name": "Minimal 72",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/71.jpeg",
+      "name": "Minimal 71",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/70.jpeg",
+      "name": "Minimal 70",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/69.jpeg",
+      "name": "Minimal 69",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/68.jpeg",
+      "name": "Minimal 68",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/67.jpeg",
+      "name": "Minimal 67",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/66.jpeg",
+      "name": "Minimal 66",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/65.jpeg",
+      "name": "Minimal 65",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/64.jpeg",
+      "name": "Minimal 64",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/63.jpeg",
+      "name": "Minimal 63",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/62.jpeg",
+      "name": "Minimal 62",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/61.jpeg",
+      "name": "Minimal 61",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/60.jpg",
+      "name": "Minimal 60",
+      "collections": "Minimal"
+    },
+    {
       "author": "Eagle Wall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/leaves/23.jpeg",
       "name": "leaves 23",
