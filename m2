@@ -1,6 +1,186 @@
  [
     {
       "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/30.jpeg",
+      "name": "Christmas&Winter 30",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/29.jpeg",
+      "name": "Christmas&Winter 29",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/28.jpeg",
+      "name": "Christmas&Winter 28",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/27.jpeg",
+      "name": "Christmas&Winter 27",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/26.jpeg",
+      "name": "Christmas&Winter 26",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/25.jpeg",
+      "name": "Christmas&Winter 25",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/24.jpeg",
+      "name": "Christmas&Winter 24",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/23.jpeg",
+      "name": "Christmas&Winter 23",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/22.jpeg",
+      "name": "Christmas&Winter 22",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/21.jpeg",
+      "name": "Christmas&Winter 21",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/20.jpeg",
+      "name": "Christmas&Winter 20",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/18.jpeg",
+      "name": "Christmas&Winter 19",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/19.jpeg",
+      "name": "Christmas&Winter 18",
+      "collections": "Christmas&Winter"
+    },   
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/17.jpeg",
+      "name": "Christmas&Winter 17",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/16.jpeg",
+      "name": "Christmas&Winter 16",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/15.jpeg",
+      "name": "Christmas&Winter 15",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/13.jpeg",
+      "name": "Christmas&Winter 14",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/14.jpeg",
+      "name": "Christmas&Winter 13",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/12.jpeg",
+      "name": "Christmas&Winter 12",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/11.jpeg",
+      "name": "Christmas&Winter 11",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/10.jpeg",
+      "name": "Christmas&Winter 10",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/9.jpeg",
+      "name": "Christmas&Winter 9",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/8.jpeg",
+      "name": "Christmas&Winter 8",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/7.jpeg",
+      "name": "Christmas&Winter 7",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/6.jpeg",
+      "name": "Christmas&Winter 6",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/5.jpg",
+      "name": "Christmas&Winter 5",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/4.jpeg",
+      "name": "Christmas&Winter 4",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/3.jpg",
+      "name": "Christmas&Winter 3",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/2.jpg",
+      "name": "Christmas&Winter 2",
+      "collections": "Christmas&Winter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Christmas%26%20Winter/1.jpg",
+      "name": "Christmas&Winter 1",
+      "collections": "Christmas&Winter"
+    },   
+    {
+      "author": "EagleSpys",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Car/20.jpeg",
       "name": "Vehicles 20",
       "collections": "Vehicles"
